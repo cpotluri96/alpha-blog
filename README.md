@@ -1,0 +1,1 @@
+This is homework of creating and pushing into git about application alpha-blog of Udemy course on Ruby on Rails
